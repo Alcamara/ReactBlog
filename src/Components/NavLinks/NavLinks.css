@@ -1,0 +1,15 @@
+.NavList {
+  display: inline-block;
+  padding: 5px;
+  margin: 4px;
+}
+
+.NavList a {
+  color: black;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.NavList a:hover {
+  color: blue;
+}
